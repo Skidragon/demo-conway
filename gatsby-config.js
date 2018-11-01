@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: "/demo-conway",
     siteMetadata: {
         title: "Conway's Game of Life"
     },
